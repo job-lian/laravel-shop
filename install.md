@@ -19,3 +19,6 @@ npm run production
 
 帐号:admin
 密码:admin
+
+
+php artisan storage:link
